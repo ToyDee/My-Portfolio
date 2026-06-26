@@ -2,8 +2,6 @@
 
 Personal developer portfolio for **Aung Thu Htet** — full-stack developer and ICT student at Rangsit University, graduating December 2026.
 
-🔗 **Live site:** _add your Vercel URL here_
-
 ## Tech Stack
 
 Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui
